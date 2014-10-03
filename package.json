@@ -1,0 +1,24 @@
+{
+  "name": "gruntImageConvert",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:t1732/gruntImageConvert.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-imagemin": "^0.8.0",
+    "grunt-image-resize": "^0.4.0",
+    "imagemin-mozjpeg": "^0.1.2"
+  }
+}
